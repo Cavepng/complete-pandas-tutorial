@@ -1,3 +1,5 @@
+#Get a quickbooks qbo export from your bank's online banking system. 
+#Export must be named input.qbo
 from ofxparse import OfxParser
 import csv
 
