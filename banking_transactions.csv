@@ -1,0 +1,199 @@
+Date,Amount,Memo
+01/02/2026,2000.00,Payroll Deposit
+01/02/2026,-12.45,Starbucks Coffee #442
+01/03/2026,-4.50,MBTA Transit Fare
+01/04/2026,-8.20,Vending Machine Snack
+01/04/2026,-21.30,CVS Pharmacy
+01/05/2026,-15.00,Local Deli Lunch
+01/06/2026,-950.00,Monthly Rent Payment
+01/07/2026,-5.75,Dunkin' Donuts
+01/08/2026,-3.25,Parking Meter
+01/09/2026,-18.90,Chipotle Mexican Grill
+01/10/2026,-11.00,Netflix Subscription
+01/10/2026,-550.00,Geico Auto Insurance
+01/11/2026,-6.40,Morning Coffee
+01/12/2026,-14.25,Burger King
+01/13/2026,-4.00,Bus Fare
+01/14/2026,-22.10,Walgreens
+01/15/2026,-10.50,City Cafe
+01/16/2026,-7.80,Gas Station Snacks
+01/17/2026,-19.45,Trader Joe's
+01/18/2026,-1100.00,Apple Store Purchase
+01/19/2026,-3.50,Newspaper Stand
+01/20/2026,-24.00,Movie Ticket
+01/21/2026,-5.20,Public Transit
+01/22/2026,-12.00,Subway Sandwich
+01/23/2026,-16.75,Target Express
+01/24/2026,-4.90,Afternoon Tea
+01/25/2026,-850.00,Luxury Gym Membership
+01/26/2026,-20.00,Uber Trip
+01/27/2026,-7.15,Bagel Shop
+01/28/2026,-13.60,7-Eleven
+01/29/2026,-5.00,App Store Purchase
+01/30/2026,-22.50,Pizza Hut
+01/31/2026,-9.30,Dry Cleaners
+02/02/2026,2000.00,Payroll Deposit
+02/02/2026,-600.00,Student Loan Payment
+02/03/2026,-14.80,Panera Bread
+02/04/2026,-4.25,Subway Fare
+02/05/2026,-11.40,Bodega Grocery
+02/06/2026,-23.15,Amazon.com
+02/07/2026,-6.50,Morning Latte
+02/08/2026,-950.00,Monthly Rent Payment
+02/09/2026,-18.20,Taco Bell
+02/10/2026,-3.75,Parking Garage
+02/11/2026,-12.90,Office Supplies
+02/12/2026,-21.00,Pharmacy Store
+02/13/2026,-450.00,Delta Air Lines
+02/14/2026,-25.00,Valentine Flowers
+02/15/2026,-7.20,Street Vendor
+02/16/2026,-15.50,Shake Shack
+02/17/2026,-5.10,Train Fare
+02/18/2026,-10.30,Spotify Premium
+02/19/2026,-19.95,Home Depot
+02/20/2026,-750.00,Laptop Repair
+02/21/2026,-8.40,Juice Bar
+02/22/2026,-4.60,Newsstand
+02/23/2026,-17.25,Pet Store Snacks
+02/24/2026,-12.80,Five Guys
+02/25/2026,-6.00,Car Wash
+02/26/2026,-23.50,Rite Aid
+02/27/2026,-1200.00,Quarterly Taxes
+02/28/2026,-14.10,Bakery
+03/02/2026,2000.00,Payroll Deposit
+03/02/2026,-9.50,Daily Coffee
+03/03/2026,-21.40,Whole Foods Market
+03/04/2026,-5.25,Bus Ticket
+03/05/2026,-11.60,Wendy's
+03/06/2026,-950.00,Monthly Rent Payment
+03/07/2026,-16.30,Hardware Store
+03/08/2026,-4.80,Vending Machine
+03/09/2026,-24.50,Dinner Takeout
+03/10/2026,-7.90,Smoothie King
+03/11/2026,-420.00,Car Maintenance
+03/12/2026,-13.20,Office Lunch
+03/13/2026,-6.75,Morning Muffin
+03/14/2026,-22.80,Target
+03/15/2026,-3.10,Toll Booth
+03/16/2026,-18.50,Post Office
+03/17/2026,-980.00,Best Buy Tech
+03/18/2026,-5.50,Transit Pass
+03/19/2026,-12.40,McDonald's
+03/20/2026,-20.15,Gas Station
+03/21/2026,-4.00,Street Parking
+03/22/2026,-15.90,Barnes & Noble
+03/23/2026,-500.00,Furniture Store
+03/24/2026,-9.20,Tea House
+03/25/2026,-23.75,Amazon Prime
+03/26/2026,-6.30,Ice Cream
+03/27/2026,-11.00,Lunch Special
+03/28/2026,-700.00,Medical Bill
+03/29/2026,-14.60,Movie Rental
+03/30/2026,-5.80,Donut Shop
+03/31/2026,-22.00,Pharmacy
+01/03/2026,-8.15,Coffee Shop
+01/04/2026,-14.20,Lunch Express
+01/05/2026,-5.50,Commuter Rail
+01/06/2026,-19.40,Grocery Quick-pick
+01/07/2026,-4.25,Soda and Chips
+01/08/2026,-12.60,Deli Sandwich
+01/09/2026,-24.80,Casual Dinner
+01/10/2026,-6.70,Pastry Shop
+01/11/2026,-11.30,Streaming Service
+01/12/2026,-22.15,Pharmacy Essentials
+01/13/2026,-3.50,Daily Newspaper
+01/14/2026,-17.40,Fast Food
+01/15/2026,-9.25,Cafe Breakfast
+01/16/2026,-20.00,Ride Share
+01/17/2026,-5.00,Subway Fare
+01/18/2026,-14.90,Household Cleaners
+01/19/2026,-8.30,Afternoon Coffee
+01/20/2026,-12.75,Pizza Slice
+01/21/2026,-4.60,Parking Meter
+01/22/2026,-21.50,Stationery Shop
+01/23/2026,-7.20,Bagel Lunch
+01/24/2026,-16.00,Movie Ticket
+01/25/2026,-9.80,Snack Bar
+01/26/2026,-5.20,Bus Fare
+01/27/2026,-23.40,CVS Health
+01/28/2026,-10.50,Burger Joint
+01/29/2026,-6.15,Bakery Treat
+01/30/2026,-18.90,Grocery Staples
+01/31/2026,-4.75,Vending Machine
+02/01/2026,-12.30,Lunch Deli
+02/02/2026,-7.40,Morning Espresso
+02/03/2026,-21.10,Local Market
+02/04/2026,-3.90,Toll Charge
+02/05/2026,-15.20,Dinner Pickup
+02/06/2026,-8.50,Convenience Store
+02/07/2026,-24.00,Clothing Basic
+02/08/2026,-6.00,Subway Pass
+02/09/2026,-11.75,Office Lunch
+02/10/2026,-19.60,Drugstore
+02/11/2026,-4.40,Street Snack
+02/12/2026,-13.80,Fast Food Combo
+02/13/2026,-9.10,Cafe Mocha
+02/14/2026,-22.50,Cinema Visit
+02/15/2026,-5.30,Public Transit
+02/16/2026,-16.80,Deli Platter
+02/17/2026,-7.95,Coffee Break
+02/18/2026,-14.40,Book Store
+02/19/2026,-20.70,Household Items
+02/20/2026,-3.25,Parking Fee
+02/21/2026,-11.50,Sandwich Shop
+02/22/2026,-18.25,Mini Mart
+02/23/2026,-6.60,Pastry Cafe
+02/24/2026,-24.95,Online Order
+02/25/2026,-5.50,Bus Fare
+02/26/2026,-13.10,Fried Chicken
+02/27/2026,-9.40,Stationery
+02/28/2026,-21.80,Supermarket
+03/01/2026,-4.10,Vending Snacks
+03/02/2026,-12.00,Midday Meal
+03/03/2026,-8.70,Morning Brew
+03/04/2026,-19.20,Pet Food
+03/05/2026,-6.40,Train Ticket
+03/06/2026,-15.75,Chinese Takeout
+03/07/2026,-3.80,Newspaper
+03/08/2026,-23.50,Hardware Fix
+03/09/2026,-10.20,Dessert Shop
+03/10/2026,-5.15,Metered Parking
+03/11/2026,-14.50,Salad Bar
+03/12/2026,-22.00,Toiletries
+03/13/2026,-7.60,Juice Shop
+03/14/2026,-11.90,Pizza Lunch
+03/15/2026,-4.30,Subway Fare
+03/16/2026,-18.10,Grocery Run
+03/17/2026,-6.85,Coffee & Bagel
+03/18/2026,-20.40,Tech Accessory
+03/19/2026,-9.00,Tacos
+03/20/2026,-13.50,Stationery Store
+03/21/2026,-5.70,Public Bus
+03/22/2026,-24.20,Pharmacy Pickup
+03/23/2026,-8.10,Afternoon Latte
+03/24/2026,-16.50,Burger Meal
+03/25/2026,-4.50,Newsstand Snack
+03/26/2026,-12.80,Sushi Roll
+03/27/2026,-21.00,Discount Store
+03/28/2026,-7.25,Cafe Tea
+03/29/2026,-15.30,App Subscription
+03/30/2026,-6.00,Parking
+03/31/2026,-19.80,Grocery Milk/Bread
+01/15/2026,-12.50,Lunch Spot
+02/15/2026,-4.95,Coffee To-Go
+03/15/2026,-23.10,General Store
+01/20/2026,-6.40,Commuter Fare
+02/20/2026,-14.20,Deli Counter
+03/20/2026,-8.90,Morning Perk
+01/25/2026,-21.75,Drugstore Run
+02/25/2026,-5.30,Bus Travel
+03/25/2026,-17.40,Takeout Food
+01/10/2026,-4.15,Snack Pack
+02/10/2026,-13.60,Fast Casual
+03/10/2026,-11.20,Bookstore Item
+01/05/2026,-24.50,Hardware Supply
+02/05/2026,-7.80,Coffee & Muffin
+03/05/2026,-19.90,Grocery Express
+01/28/2026,-5.00,Transit Top-up
+02/28/2026,-12.45,Sub Sandwich
+03/28/2026,-9.30,Cafe Visit
