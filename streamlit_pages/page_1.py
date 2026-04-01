@@ -1,22 +1,11 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 
-st.write("This script outputs a list of 100 random ")
+st.title("Location Map")
+st.write("Visualizing coordinat data from a CSV file.")
 
-def get_data():
-    df = pd.DataFrame({
-        #
-        "lat": np.random.randn(100) / 100 + 42.31479,
-        "lon": np.random.randn(100) / 100 + -71.79364
-    })
-    return df
+addrcords = pd.read_csv("address_coordinates.csv")
+latlon = addrcords.loc[:, ["lat", "lon"]]
+latlon.dropna(inplace=True)
 
-if st.button('Generate new points'):
-    st.session_state.df = get_data()
-if 'df' not in st.session_state:
-    st.session_state.df = get_data()
-df = st.session_state.df
-
-
-st.map(df)
+st.map(latlon)
